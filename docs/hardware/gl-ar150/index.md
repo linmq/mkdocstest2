@@ -2,9 +2,6 @@
 
 AR150 Series includes AR150, AR150-Ext, AR150-PoE and AR150-Ext-PoE.
 
-
-
-
 ## Hardware Specification
 
 |                         Model | GL-AR150                                                     |
